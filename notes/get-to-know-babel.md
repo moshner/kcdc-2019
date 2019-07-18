@@ -64,6 +64,34 @@ browserl.ist - a page to display compatable browsers based on your browserlist s
 ## Getting Started
 [Babel Setup](https://babeljs.io/setup)
 
+* comes with CLI out of the box
+* put is direclty into your npm scrips, allows `npm run build`
+
+## Setting up with Webpack
+This is helpful when you need additional transformations. 
+
+Again webpack doesn't transpile code, you need plugins here too.
+
+The babel setup page as a webpack filter you can sue for help.
+
+## Lebab
+Turn your ES5 code into readable ES6 (sugar-syntax). - Does the opposite of what Babel does.
+
+This could be useful for legacy code.
+
+Run old code through Lebab when you run across it
+
+```
+npm install -g lebab
+
+lebab es5.js -o es6.js --transform let
+```
+
+### Lebab Editor Plugins
+VSCode has plugin you can use directly. So do some others, look around.
+
+## JSX
+Babel uses JSX and JSX requires Babel to compile down to JS
 
 ## Insights
 
