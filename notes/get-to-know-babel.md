@@ -2,8 +2,10 @@
 
 * Jonathan Kamp
 * 7/18/2019 1:15pm
+* [Slides](https://speakerdeck.com/jonkemp)
 
 <!-- Summary: -->
+Jonathan Kemp gave a high level overview of Babel. He started with the overall structure, moved to configuring, and getting started. There are a few good resources linked below that provide some places to go to get started. 
 
 ## Notes
 [Babel Roadmap](https://babeljs.io/docs/en/roadmap)
@@ -97,14 +99,19 @@ Babel uses JSX and JSX requires Babel to compile down to JS
 
 Babel supports node, not just browsers
 
+Babel helps you learn the ES6 syntax and see what is happening behind the scenes with the repl tool[^1]
+
+[ ] Can we use Lebab to help upgrade the legacy code in the upcoming redesign?
+
 ## Actions
 [ ] Create summary
 
 [ ] Migrate notes to Evernote
 
 ## Resources
+* [Babel Docs](https://babeljs.io/docs/en)
+* [Awesome Babel](https://github.com/babel/awesome-babel)
+* [ES6 Compatibility Table](https://kangax.github.io/compat-table/es6)
 
 <!-- Footnotes -->
-[^1]: Example footnote
-
-<!-- Markdown Cheatsheet https://www.markdownguide.org/cheat-sheet/ -->
+[^1]: Babel Repl: https://babeljs.io/en/repl
