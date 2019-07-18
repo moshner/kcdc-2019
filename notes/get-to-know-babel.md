@@ -2,7 +2,6 @@
 
 * Jonathan Kamp
 * 7/18/2019 1:15pm
-* @twitter
 
 <!-- Summary: -->
 
