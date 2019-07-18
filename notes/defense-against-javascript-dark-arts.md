@@ -221,8 +221,112 @@ getTodoAsync();
 
 ```
 
-### 4) FOrmatting and Linting
+## 4) FOrmatting and Linting
+It will statically keep you from doing something wrong. (Not dynamically).
 
+### Benefits
+* Consistent Code Formatting
+* No const reassignment and no undeclared variables
+* Better timing/performance with Asynchronous JS
+* No console.log()
+
+You can prevent pushing code if linting fails.
+
+Instead of async in a for loop you can use `promise.all`
+
+### LInting Setup
+* Install esline package to project
+* Use `eslint --init` command
+* follow prompts to create eslint configuration (creates .eslintrc file)
+* Install eslint extension for VS Code
+* Go into settings and check "Eslint: Auto Fix on Save"
+
+## 5) TypeScript
+TypeScript is a **typed superset** of JavaScript that **compiles to plain JavaScript.** 
+
+### Benefits
+* **Optional** static typings
+* Converts to JavaScript
+* Easily define object definitions with Interfaces
+* Documentation and Intellisense
+
+### Static Bindings
+```
+function ICanAdd( num1, num2) {
+    return num1 + num2;
+}
+
+ICanAdd(1,2);
+ICanAdd("James", "Quick");
+ICanAdd({}, []);
+```
+
+```
+function ICanAdd(num1: number, num2: number) {
+    return num1 + num2;
+}
+
+ICanAdd(1, 2);
+ICanAdd("James", "Quick"); //CANT DO THAT!
+ICanAdd({}, []); //CANT DO THAT!
+```
+
+```
+function ICanAdd(num1: number, num2: number):number {
+    return num1 + num2;
+}
+
+const num:number = ICanAdd(1, 2);
+
+```
+
+```
+
+function ICanAdd(num1: number, num2: number):number {
+    return num1 + num2;
+}
+
+const num = ICanAdd(1, 2); //type of number is optional since function returns a number
+```
+
+```
+
+function ICanAdd(num1: number, num2: number):number {
+    return num1 + num2;
+}
+
+let num = ICanAdd(1, 2);
+num = "James" //YOU CAN"T DO THIS: num is of type number
+```
+
+Try out the [TypeScript Playground](https://www.typescriptlang.org/play/index.html)
+
+### Interfaces/Models
+```
+interface Person  {
+    first: string,
+    last: string,
+    age:number,
+    children: [],
+    spouse:Person
+}
+```
+This leads to knowing and getting intellisense help!
+
+### Setup Typscript
+* Install TypeScript via NPMx
+* Use tsc command followed by TypeScript file
+* Create TypeScript configuration file
+* Install TSLint extension VS Code
+
+## BONUS) Debugging
+~~~console.log()~~~
+
+VSCode has all the features 
+
+## [Learn VS Code](https://www.udemy.com/learn-visual-studio-code/?couponCode=KCDC2019)
+On UDemy
+Coupon Code - KCDC2019
 
 <!-- 
 ### Code Block
@@ -243,9 +347,14 @@ Axios is making http requests
 [ ] Migrate notes to Evernote
 
 ## Resources
-"JavasScript 30" by Wes Bos: Free course to build your javascript skills
-
-<!-- Footnotes -->
-[^1]: Example footnote
-
-<!-- Markdown Cheatsheet https://www.markdownguide.org/cheat-sheet/ -->
+* [JavaScript Double Equals vs Triple Equals](http://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+* [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+* [JavaScript Objects](https://www.youtube.com/watch?v=VIKY1DqlRtI) - Getting Started
+* [JavaScript Arrays](https://www.youtube.com/watch?v=xh7njXASFjU&t=661s) - Getting Started
+* [JavaScript Promises](http://www.youtube.com/watch?v=gyC19H4ip1k) - Getting Started
+* [JavaScript Fetch API](https://www.youtube.com/watch?v=uBR2wAvGces&t=1s) - Getting Started
+* [Explaining Value vs. Reference in JavaScript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+* 📖 [JavaScript 30 by Wes Bos](https://javascript30.com/) - Free course to build your javascript skills
+* [ESLint](https://eslint.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* 🎥 [Debugging JavaScript in Chrome and VS Code](https://www.youtube.com/watch?v=AX7uybwukkk)
