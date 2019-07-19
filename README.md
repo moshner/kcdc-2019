@@ -24,3 +24,4 @@ I took notes, pictures, and wrote personal summaries from [KCDC 2019](https://ww
 | 9:45 am | [The Life-Changing Magic of Tidying Your Dev Team](./notes/tidying-dev-team.md) | Gabby Spurling |
 | 11:00 am | [Enhance Your Career with a Mastermind Group](./notes/mastermind-group.md) | Kevin Griffin |
 | 2:15 pm | [Keyboards? Where we’re going, we don’t need keyboards.](./notes/keyboards-dont-need-keyboards.md) | Don Wibier |
+| 3:30 pm | [Getting more out of TypeScript](./notes/get-more-out-of-typescript.md) | Jake Ginnivan |
