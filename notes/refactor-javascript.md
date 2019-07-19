@@ -6,6 +6,7 @@
 * thejoemorgan.com
 
 <!-- Summary: -->
+All code bases get more complicated and messy over time, it's in their nature. Refactoring is a necessary thing to do. Not just by one person but by everyone, all the time. Joe Morgan explained the three steps of refactoring: Isolate, purify, and Combine. Then he went through specific examples in a pizza building application. 
 
 ## Notes
 2nd Law of Themodynamics
@@ -65,7 +66,6 @@ function foo(
 * Remove nested if-thens
 * Fail Early: Move the fail cases to the top to make it easier to skim
 * Create a closure: for call once functions
-* 
 
 ## Layers
 * Data
@@ -84,15 +84,8 @@ My confusion about functions having immediate inputs/outputs appears to be becau
 "Individuals write **code,** teams create **software.**"
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
 
 [ ] lookup article: "Avoid Hasty Abstraction"
-
-## Resources
-
-<!-- Footnotes -->
-[^1]: Example footnote
-
-<!-- Markdown Cheatsheet https://www.markdownguide.org/cheat-sheet/ -->
