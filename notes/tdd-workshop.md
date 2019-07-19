@@ -195,7 +195,7 @@ that sucked, again I don't know enough javascript
 * TDD is eaiser to implement when working on bugs, this is a good place to start.
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
 

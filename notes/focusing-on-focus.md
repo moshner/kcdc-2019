@@ -96,7 +96,7 @@ can be used in a build or as an extension in your browser
 Can we build in wcag, axe, lighthouse into our testing process?
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
 

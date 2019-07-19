@@ -104,7 +104,7 @@ Babel helps you learn the ES6 syntax and see what is happening behind the scenes
 [ ] Can we use Lebab to help upgrade the legacy code in the upcoming redesign?
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
 

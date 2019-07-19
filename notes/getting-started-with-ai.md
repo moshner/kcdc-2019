@@ -164,7 +164,7 @@ https://matthewrenze.com/courses.html
 
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
 
