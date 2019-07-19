@@ -7,7 +7,7 @@
 * @1kevgriff
 
 <!-- Summary: -->
-
+Mastermind groups are a good place to help you with your career and job. There are two different formats: 'hot seat' and 'round robin'. These groups can be really helpful but you need to have like minded goals. You can get started by reaching out to people where they gather. 
 
 ## Mastermind Group
 * A group of mutual improvement
@@ -84,12 +84,23 @@
 * Don't pay to join
 * Not knowing the people before allows them to be more straightforward and honest. It depends how those relationships are structured.
 * Extremely hard to have honest conversations with coworkers
+* It's okay to kick people out
+* Document your meetings
+    * Fill your answers out in advance
 
 ## Insights
 * Would my college friends work for this?
 * Would UXPA-KC be a good place to look for people for this?
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
+
+## About
+What do King Arthur, Franklin D. Roosevelt, Andrew Carnegie, and Napoleon all have in common? Each of them belonged to groups called Masterminds, or brain trusts. The term was originally coined back in 1937, but the concept has survived the test of time. By surrounding yourself with like-minded individuals, each coming into the conversation with their own thoughts, perspective, and motivations, the overall group can lift themselves to a higher level. You don't need to wear a crown or command an army to be in a mastermind group. Average people every day meet and discuss their careers and personal lives within constructive, judgement-free zones. 
+ 
+ Do you find yourself going to work each day without direction? Do you feel like you are the only person in the world with the problems you're facing? A mastermind group would help you push forward. This presentation will discuss how to join or organize a mastermind group, including meeting structure and timing. What are the do's and don'ts? How can every member benefit? Come learn and take your career to the next level.
+
+---------
+**Tags** : Human skills, introductory

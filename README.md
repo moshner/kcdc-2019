@@ -1,5 +1,5 @@
 # KCDC 2019
-I took notes, pictures, and wrote personal summaries from KCDC 2019. These are the sessions I went to:
+I took notes, pictures, and wrote personal summaries from [KCDC 2019](https://www.kcdc.info). These are the sessions I went to:
 
 ## Wednesday July 17, 2019
 | Time | Session | Speaker |
