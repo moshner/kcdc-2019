@@ -20,4 +20,4 @@ I took notes, pictures, and wrote personal summaries from KCDC 2019. These are t
 ## Friday July 19, 2019
 | Time | Session | Speaker |
 | ----------- | ----------- | --- |
-| 8:30 am | [Less. Better. Let's Refactor JavaScript](./refactor-javascript.md) | Joe Morgan |
+| 8:30 am | [Less. Better. Let's Refactor JavaScript](./notes/refactor-javascript.md) | Joe Morgan |
