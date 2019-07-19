@@ -22,3 +22,4 @@ I took notes, pictures, and wrote personal summaries from KCDC 2019. These are t
 | ----------- | ----------- | --- |
 | 8:30 am | [Less. Better. Let's Refactor JavaScript](./notes/refactor-javascript.md) | Joe Morgan |
 | 9:45 am | [The Life-Changing Magic of Tidying Your Dev Team](./notes/tidying-dev-team.md) | Gabby Spurling |
+| 11:00 am | [Enhance Your Career with a Mastermind Group](./notes/mastermind-group.md) | Kevin Griffin |
