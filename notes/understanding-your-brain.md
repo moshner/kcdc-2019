@@ -126,6 +126,18 @@ bit.ly/vizbooks
 
 datavizcatalogue.com/resources.html
 
-"The puropse of visualizition is insight not a picture"  - LOOKUP
+"The purpose of visualizition is insight not a picture"  - LOOKUP
 
 Bret Victor worrydream.com is trying to find better ways of visualizing things
+
+## About
+No one questions that data is vital to application development, our teams spend untold hours obsessing about data structures. We build useful data layers and strive to eliminate processing roadblocks so that our data services are fast and fluid.
+
+Do you spend that much effort on the visual portrayal of the data? If not, why not?
+
+At some point in the data analytics cycle you need to show results to the stakeholder. That’s when choosing the correct visual representation of the data becomes vital. Do it wrong and the data is merely wrapped in pretty graphics; do it right and the user perceives their information in clear and meaningful patterns. 
+
+This fast paced and entertaining session starts by looking at how your brain and optical system perceive data. This session explores the overall visualization concepts that make data easier to grasp. Do you know the best way to show data to your users, so that the information is clear and understandable? Come to this session to learn how to make your data shine. 
+
+-----------------------
+**tags**: ux/ui, introductory

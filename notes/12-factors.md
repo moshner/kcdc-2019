@@ -62,6 +62,12 @@ Your admin tools ship with the product. Pryzby warns us to not go messing with t
 
 [ ] Read about 12 factors
 
+## About
+Interested in seeing how an experienced developer falls short in the real world? In this talk, you'll learn, laugh, and cry at all the ways a professional developer has screwed up -- in production. Along the way, you'll discover the joys of the 12-factor application and its guiding principles.
+
+-----------------------
+**tags**: devops, introductory
+
 ## Resources
 
 <!-- Footnotes -->

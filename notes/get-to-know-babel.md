@@ -113,5 +113,11 @@ Babel helps you learn the ES6 syntax and see what is happening behind the scenes
 * [Awesome Babel](https://github.com/babel/awesome-babel)
 * [ES6 Compatibility Table](https://kangax.github.io/compat-table/es6)
 
+## About
+Since the introduction of ES6, JavaScript developers have been faced with the problem of the latest features not always being available in current or older browsers. So how should you deal with this problem? Do you write code that works in all browsers or only the newest ones? With Babel, you don't have to decide. Babel is a JavaScript compiler that lets you write next generation JavaScript code that runs in both current and older browsers or environments. Babel has become an indispensable tool for JavaScript developers because it solves this problem, but you may not be aware of everything it can do. In this session, we'll look at several of the different features of Babel, see how they work and learn how you can use them in your applications.
+
+-----------------------
+**tags**: javascript, intermediate
+
 <!-- Footnotes -->
 [^1]: Babel Repl: https://babeljs.io/en/repl

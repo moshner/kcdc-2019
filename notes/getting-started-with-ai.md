@@ -172,9 +172,10 @@ https://matthewrenze.com/courses.html
 
 [ ] Try out something on MS/Google/AWS
 
-## Resources
+## About
+Whether you realize it or not, we are currently entering the era of artificial intelligence. AI technologies will radically transform our economy, our society, and our lives. As a result, the software industry is preparing for a major transition as well. However, most developers do not yet possess the skills necessary to remain relevant in our new data-driven economy.
+ 
+In this session, we will learn about modern data-driven artificial intelligence. We'll learn why it’s important and how it will impact you, your career, and our future. We’ll also learn how a series of modern technologies including machine learning, deep learning, and reinforcement learning are converging to create fully autonomous intelligent systems.
 
-<!-- Footnotes -->
-[^1]: TBD
-
-<!-- Markdown Cheatsheet https://www.markdownguide.org/cheat-sheet/ -->
+-----------------------
+**tags**: data science, introductory

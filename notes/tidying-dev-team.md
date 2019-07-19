@@ -97,6 +97,12 @@ What if I have only one thing that works? Do I throw it away and buy a new one? 
 If you think about the processes and how they serve you and not how annoying they are, you will begin to bring in joy there.
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
+
+## About
+In an industry overflowing with information, new and constant change, the power of simplicity is often overlooked. So much of our work depends on clean and focused code, but for maximum benefit, you should be applying the same approach to the processes surrounding your work. In doing so, you can create an environment where your team functions better and is filled with joy.
+
+-----------------------
+**tags**: process, intermediate
