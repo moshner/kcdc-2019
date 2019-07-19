@@ -16,3 +16,8 @@ I took notes, pictures, and wrote personal summaries from KCDC 2019. These are t
 | 1:15 pm   | [Get to Know Babel](./notes/get-to-know-babel.md) | Jonathan Kemp |
 | 2:30 pm | [Defense Against the Javascript Dark Arts](./notes/defense-against-javascript-dark-arts.md)|James Quick|
 | 3:45 pm | [Getting Started with Artificial Intelligence](./notes/getting-started-with-ai.md)|Matthew Renze|
+
+## Friday July 19, 2019
+| Time | Session | Speaker |
+| ----------- | ----------- | --- |
+| 8:30 am | [Less. Better. Let's Refactor JavaScript](./refactor-javascript.md) | Joe Morgan |
