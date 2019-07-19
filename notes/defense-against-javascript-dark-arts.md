@@ -221,7 +221,7 @@ getTodoAsync();
 
 ```
 
-## 4) FOrmatting and Linting
+## 4) Formatting and Linting
 It will statically keep you from doing something wrong. (Not dynamically).
 
 ### Benefits
@@ -234,8 +234,8 @@ You can prevent pushing code if linting fails.
 
 Instead of async in a for loop you can use `promise.all`
 
-### LInting Setup
-* Install esline package to project
+### Linting Setup
+* Install eslint package to project
 * Use `eslint --init` command
 * follow prompts to create eslint configuration (creates .eslintrc file)
 * Install eslint extension for VS Code
@@ -349,10 +349,10 @@ Axios is making http requests
 ## Resources
 * [JavaScript Double Equals vs Triple Equals](http://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
 * [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
-* [JavaScript Objects](https://www.youtube.com/watch?v=VIKY1DqlRtI) - Getting Started
-* [JavaScript Arrays](https://www.youtube.com/watch?v=xh7njXASFjU&t=661s) - Getting Started
-* [JavaScript Promises](http://www.youtube.com/watch?v=gyC19H4ip1k) - Getting Started
-* [JavaScript Fetch API](https://www.youtube.com/watch?v=uBR2wAvGces&t=1s) - Getting Started
+* 🎥 [JavaScript Objects](https://www.youtube.com/watch?v=VIKY1DqlRtI) - Getting Started
+* 🎥 [JavaScript Arrays](https://www.youtube.com/watch?v=xh7njXASFjU&t=661s) - Getting Started
+* 🎥 [JavaScript Promises](http://www.youtube.com/watch?v=gyC19H4ip1k) - Getting Started
+* 🎥 [JavaScript Fetch API](https://www.youtube.com/watch?v=uBR2wAvGces&t=1s) - Getting Started
 * [Explaining Value vs. Reference in JavaScript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 * 📖 [JavaScript 30 by Wes Bos](https://javascript30.com/) - Free course to build your javascript skills
 * [ESLint](https://eslint.org/)

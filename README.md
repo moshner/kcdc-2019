@@ -21,3 +21,4 @@ I took notes, pictures, and wrote personal summaries from KCDC 2019. These are t
 | Time | Session | Speaker |
 | ----------- | ----------- | --- |
 | 8:30 am | [Less. Better. Let's Refactor JavaScript](./notes/refactor-javascript.md) | Joe Morgan |
+| 9:45 am | [The Life-Changing Magic of Tidying Your Dev Team](./notes/tidying-dev-team.md) | Gabby Spurling |
