@@ -11,6 +11,8 @@ Steven Hicks presented a good workshop on how to get started with JEST and javas
 
 This means that I can write really crappy code to start var = "answer" and the refactor it to add in any dynamic stuff.
 
+![overview](..\images\kcdc.7-17-19.08.56.44.jpg)
+
 ## Notes
 Works at Artsy: Artsy is a NY based company that connects art collectors with galleries all over the world.
 
@@ -102,6 +104,7 @@ Tips:
 * Work in small iterations - tight feedback loop
 
 Exercise: Module 2: fizz buzz with TDD
+![Fizz buzz](../images/kcdc.7-17-19.09.32.33.jpg)
 
 Suggestions: 
 * Stay Green
@@ -111,6 +114,8 @@ Suggestions:
 
 ### Module 3: Code Katas
 * testing **can** become a habit
+
+![introduce slowly](..\images\kcdc.7-17-19.11.07.29.jpg)
 
 wow, that was hard because I am slow with javascript. 
 
@@ -154,7 +159,6 @@ axios.get.mockResolvedValue({
 [ ] look these up in his slides
 
 #### combine all
-pic 10:27am
 
 ```
 import axios from 'axios'
@@ -168,7 +172,6 @@ it's useful for business logic too
 #### bug fixes
 start by writing the bug into your a test case
 then go fix it
-pic 10:30
 
 #### module 4ab / 4ac
 module-4ab/README.md & ...ac/README.md
@@ -189,6 +192,8 @@ that sucked, again I don't know enough javascript
 * Make things small
 * Optimize tests for time of failure, not time of writing
     * keep in mind the target audience of them
+
+![Refactor to make space](..\images\kcdc.7-17-19.11.48.55.jpg)
 
 ## Insights
 * TDD is easier when working on small things
