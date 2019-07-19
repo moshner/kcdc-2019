@@ -9,7 +9,7 @@
 Jake Ginnivan, an austrailan demonstrated advanced typescript techniques like generics, union types, strict null checking, mapped types, conditional types. It was over my head but seems useful for reading more deeply into.
 
 ## Notes
-![Quokkas](Quokkas.jpg) Quokkas are super cute.
+![Quokkas](../images/Quokkas.jpg) Quokkas are super cute.
 
 Also the library s helpful. `//?`
 
