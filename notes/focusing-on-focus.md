@@ -16,7 +16,7 @@ He is a super fun guy and is connected with a lot of awesome people.
 <!-- This is a reference [^1] -->
 
 https://ibm.co/2XMSUBX - Michael Supa
-pic: 10:07am
+![Michael Supa](..\images\kcdc.7-18-19.10.06.58.jpg)
 
 ## Why?
 For everyone, I can develop something for mom, at the end of the day I've don my job.

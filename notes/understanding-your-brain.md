@@ -13,16 +13,19 @@ Also, lots of tools!
 
 ## Notes
 <!-- This is a reference [^1] -->
-photo: 8:46am
+![Walt Ritscher](..\images\kcdc.7-18-19.08.46.28.jpg)
 
 "every time i see a word cloud presented as insight i die a little inside" - jacob harris
-photo: 8:49am
+![Every time I see a word cloud...](..\images\kcdc.7-18-19.08.49.28.jpg)
+
+![Categories of Visualizations](..\images\kcdc.7-18-19.08.50.15.jpg)
 
 Recommened book: Categories of Visualizations by Alberto Cairo
 
 lollipop chart is a good alternative to bar charts
 
-dotted cluster chart: photo: 8:52am
+dotted cluster chart
+![dotted cluster chart](..\images\kcdc.7-18-19.08.52.33.jpg)
 
 ### dataviscatalogue.com/ - resource
 * helps you define methods, functions, etc
@@ -37,12 +40,13 @@ Data map: visualizing data on a map
 ### Infographic: 
 multi-section visual representation of information intended to communicate one or more specific messages. usually designed created
 
-photo: 8:55am
-photo: 8:55am
+![Infographic](..\images\kcdc.7-18-19.08.55.14.jpg)
+
+![Infographics 2](..\images\kcdc.7-18-19.08.55.52.jpg)
 
 ### pie charts
 our brains don't see pie slices very well. 
-photo: 8:56am
+![better pie chart](..\images\kcdc.7-18-19.08.56.50.jpg)
 
 ### data visualization
 a display of data designed to enable: analysis, epxloration, discovery
@@ -70,8 +74,8 @@ What are you wanting people to discover in the data? differences? trends?
 don't ask users to enter phone numbers in all flat strings. Humans don't read number in greater than 4-5 in length.
 
 ## best to worst graph
-pic: 9:14am
-pic: 9:14am
+![best to worst 1](..\images\kcdc.7-18-19.09.13.48.jpg)
+![best to worst 2](..\images\kcdc.7-18-19.09.14.13.jpg)
 
 ## Red/Green is a poor color choice
 STOP
@@ -107,7 +111,7 @@ also a problem, try stacking instead of increasing height and width
 * Web GL
 
 ## NASA Purpetual Motion
-Pic: 9:30am
+![NASA Purpetual Motions](..\images\kcdc.7-18-19.09.30.27.jpg)
 Wow! amazing representation of ocean currents
 
 ## Insights

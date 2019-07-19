@@ -8,7 +8,8 @@
 A life-time developer took us through the 12 Factor of app development but with a twist, all of his mistakes that he made. It was funny and introduced me to the [12 factors of app development](https://thenewstack.io/12-factor-app-streamlines-application-development/) that I didn't know before.
 
 ## Notes
-
+![Opening slide](..\images\kcdc.7-18-19.11.14.26.jpg)
+![12 factor app](..\images\kcdc.7-18-19.11.18.43.jpg)
 ### Factor 1: Codebase
 You need to build on top of one codebase, fully tracked with revision control and many deployments. Deployments should be automatic, so everything can run in different environments without work.
 
