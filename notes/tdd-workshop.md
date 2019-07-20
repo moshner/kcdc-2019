@@ -11,7 +11,7 @@ Steven Hicks presented a good workshop on how to get started with JEST and javas
 
 This means that I can write really crappy code to start var = "answer" and the refactor it to add in any dynamic stuff.
 
-![overview](..\images\kcdc.7-17-19.08.56.44.jpg)
+![overview](../images/kcdc.7-17-19.08.56.44.jpg)
 
 ## Notes
 Works at Artsy: Artsy is a NY based company that connects art collectors with galleries all over the world.
@@ -193,7 +193,7 @@ that sucked, again I don't know enough javascript
 * Optimize tests for time of failure, not time of writing
     * keep in mind the target audience of them
 
-![Refactor to make space](..\images\kcdc.7-17-19.11.48.55.jpg)
+![Refactor to make space](../images/kcdc.7-17-19.11.48.55.jpg)
 
 ## Insights
 * TDD is easier when working on small things
