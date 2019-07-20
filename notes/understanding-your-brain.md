@@ -13,7 +13,7 @@ Also, lots of tools!
 
 ## Notes
 <!-- This is a reference [^1] -->
-![Walt Ritscher](..\images\kcdc.7-18-19.08.46.28.jpg)
+![Walt Ritscher](../images/kcdc.7-18-19.08.46.28.jpg)
 
 "every time i see a word cloud presented as insight i die a little inside" - jacob harris
 ![Every time I see a word cloud...](..\images\kcdc.7-18-19.08.49.28.jpg)
