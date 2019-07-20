@@ -115,7 +115,7 @@ Suggestions:
 ### Module 3: Code Katas
 * testing **can** become a habit
 
-![introduce slowly](..\images\kcdc.7-17-19.11.07.29.jpg)
+![introduce slowly](../images/kcdc.7-17-19.11.07.29.jpg)
 
 wow, that was hard because I am slow with javascript. 
 
