@@ -7,15 +7,15 @@
 <!-- Summary: -->
 We played the #noestimates game[^1] together, learning how to build a backlog, identifying complications to the process, and understanding our velocity. Afterward he crunched the numbers to prove to us that the size of tickets didn't actually matter to our velocity.
 
-![Opening Slide](..\images\kcdc.7-17-19.13.00.09.jpg)
+![Opening Slide](../images/kcdc.7-17-19.13.00.09.jpg)
 
-![Game Creator](..\images\kcdc.7-17-19.13.07.53.jpg)
+![Game Creator](../images/kcdc.7-17-19.13.07.53.jpg)
 
-![Scatter Plot](..\images\kcdc.7-17-19.16.21.42.jpg)
+![Scatter Plot](../images/kcdc.7-17-19.16.21.42.jpg)
 
-![Why #NoEstimates](..\images\kcdc.7-17-19.16.58.03.jpg)
+![Why #NoEstimates](../images/kcdc.7-17-19.16.58.03.jpg)
 
-![Why #NoEstimates2](..\images\kcdc.7-17-19.17.00.00.jpg)
+![Why #NoEstimates2](../images/kcdc.7-17-19.17.00.00.jpg)
 
 ## Actions
 [x] Create summary
