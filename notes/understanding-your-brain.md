@@ -111,7 +111,7 @@ also a problem, try stacking instead of increasing height and width
 * Web GL
 
 ## NASA Purpetual Motion
-![NASA Purpetual Motions](..\images\kcdc.7-18-19.09.30.27.jpg)
+![NASA Purpetual Motions](../images/kcdc.7-18-19.09.30.27.jpg)
 Wow! amazing representation of ocean currents
 
 ## Insights
