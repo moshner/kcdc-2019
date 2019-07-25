@@ -16,6 +16,8 @@ This means that I can write really crappy code to start var = "answer" and the r
 ## Notes
 Works at Artsy: Artsy is a NY based company that connects art collectors with galleries all over the world.
 
+![Refactory Goals](../images/kcdc1.jpg)
+
 ###  Jest
 * ["Delightful JavaScript Testing"](http://facebook.github.io/jest)
 * Easy to set up

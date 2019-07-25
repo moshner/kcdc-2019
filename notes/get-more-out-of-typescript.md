@@ -13,6 +13,8 @@ Jake Ginnivan, an austrailan demonstrated advanced typescript techniques like ge
 
 Also the library s helpful. `//?`
 
+![History of Typescript](../images/kcdc.7-19-19.15.34.41.jpg)
+
 ### Generics
 If you have a js function with parameters, they allow you to put in a placeholder in for the type. 
 

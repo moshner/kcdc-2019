@@ -8,14 +8,16 @@
 A life-time developer took us through the 12 Factor of app development but with a twist, all of his mistakes that he made. It was funny and introduced me to the [12 factors of app development](https://thenewstack.io/12-factor-app-streamlines-application-development/) that I didn't know before.
 
 ## Notes
-![Opening slide](..\images\kcdc.7-18-19.11.14.26.jpg)
-![12 factor app](..\images\kcdc.7-18-19.11.18.43.jpg)
+![Opening slide](../images/kcdc.7-18-19.11.14.26.jpg)
+![12 factor app](../images/kcdc.7-18-19.11.18.43.jpg)
 ### Factor 1: Codebase
+![Factor 1](../images/kcdc.7-18-19.11.19.54.jpg)
 You need to build on top of one codebase, fully tracked with revision control and many deployments. Deployments should be automatic, so everything can run in different environments without work.
 
 “If you’re thinking that something is different in dev than in QA, don’t put it in the code,” Pryzby said, echoing a common theme you will see running throughout the 12 factors.
 
 ### Factor 2: Isolated Dependencies
+![Factor 2](../images/kcdc.7-18-19.11.25.56.jpg)
 “How many times have you installed or tried to install something only to find out you had the wrong version of glibc?” asked Pryzby. Or perhaps you had the wrong version of Python or the wrong version of one of the Python libraries?
 
 The second factor is about explicitly declaring and isolating dependencies because the app is a standalone and needs to install dependencies. This is why you declare what you need in the code.
