@@ -117,6 +117,7 @@ As we build more and more things on the web, we must do our part in building awe
 
 <!-- Footnotes -->
 [^1]: Get the quote
+
 [^2]: bit.ly/2Ds4EPd
 
 <!-- Markdown Cheatsheet https://www.markdownguide.org/cheat-sheet/ -->

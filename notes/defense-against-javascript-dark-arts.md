@@ -7,6 +7,7 @@
 * [Learn Build Teach](https://www.learnbuildteach.com)
 
 <!-- Summary: -->
+Jame Quick explained javascript fundamentals and advanced topics through Harry Potter jokes. He covered things like mastering equality, ES6 features, Asynchronous, JavaScript, Formatting and Linting, Typescript.
 
 ## 1) Mastering Equality
 ### double equals 
@@ -16,11 +17,11 @@ looks for general equality.
 coercion basically uses Falsy Values and flips those for truthy
 
 ### triple equals
-compares strong equality by compareing both types and value without coercion
+compares strong equality by comparing both types and value without coercion
 
 ### Pass by Value
 primitives are passed by value
-primitieves = undefined, null, boolean, string, number
+primitives = undefined, null, boolean, string, number
 
 ### Pass By Reference
 same as value only if you compare two objects that are the same content but try to compare them they will not be equal.
@@ -342,7 +343,7 @@ Can we declare default value errors
 Axios is making http requests
 
 ## Actions
-[ ] Create summary
+[x] Create summary
 
 [ ] Migrate notes to Evernote
 

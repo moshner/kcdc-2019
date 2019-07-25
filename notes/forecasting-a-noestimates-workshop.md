@@ -24,7 +24,7 @@ We played the #noestimates game[^1] together, learning how to build a backlog, i
 
 [ ] Read about #noestimates
 
-[ ] migrate pictures
+[x] migrate pictures
 
 ## Resources
 
