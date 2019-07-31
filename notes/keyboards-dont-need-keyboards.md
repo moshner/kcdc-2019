@@ -54,12 +54,6 @@ Language Understanding. The api isn't concerned with areas  outside of your iten
 * Account with MS
 * Account with LUIS
 
-
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
 ## Resources
 https://github.com/donwibier/DXCognitiveSession
 
