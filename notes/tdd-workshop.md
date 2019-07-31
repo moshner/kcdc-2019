@@ -201,11 +201,6 @@ that sucked, again I don't know enough javascript
 * TDD is easier when working on small things
 * TDD is eaiser to implement when working on bugs, this is a good place to start.
 
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
 ## About
 Learning Test-Driven Development (TDD) is frustrating. The first couple tests feel strange - you wonder why you're writing tests that fail on purpose. Before long, you find yourself behind schedule from spending so much time on tests. You abandon unit testing completely. You'll write them after....if you find the time.
  
