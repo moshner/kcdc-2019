@@ -95,12 +95,7 @@ can be used in a build or as an extension in your browser
 ## Insights
 Can we build in wcag, axe, lighthouse into our testing process?
 
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
-[ ] what do new graphical characters look like in screen reader? e.g. heart icon ❤️
+What do new graphical characters look like in screen reader? e.g. heart icon ❤️
 
 ## Resources
 https://bit.ly/2KxP4VO
