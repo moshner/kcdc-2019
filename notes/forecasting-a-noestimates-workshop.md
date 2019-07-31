@@ -17,17 +17,6 @@ We played the #noestimates game[^1] together, learning how to build a backlog, i
 
 ![Why #NoEstimates2](../images/kcdc.7-17-19.17.00.00.jpg)
 
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
-[ ] Read about #noestimates
-
-[x] migrate pictures
-
-## Resources
-
 ## About
 Does your team struggle with answering the question: When will this work be done? 
  
