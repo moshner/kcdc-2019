@@ -92,11 +92,6 @@ Mastermind groups are a good place to help you with your career and job. There a
 * Would my college friends work for this?
 * Would UXPA-KC be a good place to look for people for this?
 
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
 ## About
 What do King Arthur, Franklin D. Roosevelt, Andrew Carnegie, and Napoleon all have in common? Each of them belonged to groups called Masterminds, or brain trusts. The term was originally coined back in 1937, but the concept has survived the test of time. By surrounding yourself with like-minded individuals, each coming into the conversation with their own thoughts, perspective, and motivations, the overall group can lift themselves to a higher level. You don't need to wear a crown or command an army to be in a mastermind group. Average people every day meet and discuss their careers and personal lives within constructive, judgement-free zones. 
  
