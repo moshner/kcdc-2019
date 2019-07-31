@@ -83,12 +83,7 @@ My confusion about functions having immediate inputs/outputs appears to be becau
 
 "Individuals write **code,** teams create **software.**"
 
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
-[ ] lookup article: "Avoid Hasty Abstraction"
+[Avoid Hasty Abstraction](https://kentcdodds.com/blog/aha-programming)
 
 ## About
 You may have heard the phrase “red, green, refactor,” but in reality it’s more like “red, green, tech debt.” It’s easy to think you’ll go back and refactor your code when you have time, but by the time you get a chance, you’ll find a big plate of spaghetti. Teasing it apart can be difficult and scary (what about all the edge cases?). Admit it: when you find code that needs a refactor, you probably quietly close the file and move on to something else. In this talk, you’ll learn how to attack the spaghetti and turn it into clean, reusable code. You’ll learn techniques for refactoring code and isolating reusable chunks. You’ll also learn how to integrate continual refactoring into your process to ensure that code is clean without premature abstractions.
