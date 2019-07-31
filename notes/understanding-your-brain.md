@@ -114,13 +114,6 @@ also a problem, try stacking instead of increasing height and width
 ![NASA Purpetual Motions](../images/kcdc.7-18-19.09.30.27.jpg)
 Wow! amazing representation of ocean currents
 
-## Insights
-
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
 ## Resources
 bit.ly/vizbooks
 
