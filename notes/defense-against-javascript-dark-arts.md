@@ -342,11 +342,6 @@ Can we declare default value errors
 
 Axios is making http requests
 
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
 ## Resources
 * [JavaScript Double Equals vs Triple Equals](http://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
 * [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
