@@ -162,16 +162,6 @@ https://matthewrenze.com/courses.html
 2. Is your organization prepared?
 3. Is the world prepared?
 
-
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
-[ ] Sign up for pluralsight courses on this
-
-[ ] Try out something on MS/Google/AWS
-
 ## About
 Whether you realize it or not, we are currently entering the era of artificial intelligence. AI technologies will radically transform our economy, our society, and our lives. As a result, the software industry is preparing for a major transition as well. However, most developers do not yet possess the skills necessary to remain relevant in our new data-driven economy.
  
