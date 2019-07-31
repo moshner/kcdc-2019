@@ -101,12 +101,7 @@ Babel supports node, not just browsers
 
 Babel helps you learn the ES6 syntax and see what is happening behind the scenes with the repl tool[^1]
 
-[ ] Can we use Lebab to help upgrade the legacy code in the upcoming redesign?
-
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
+Can we use Lebab to help upgrade the legacy code in the upcoming redesign?
 
 ## Resources
 * [Babel Docs](https://babeljs.io/docs/en)
