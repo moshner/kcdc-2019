@@ -75,13 +75,6 @@ that is a new type that is 0 type
 ### Function overloads
 allow us to have one implementation with multiple signatures
 
-## Insights
-
-## Actions
-[x] Create summary
-
-[ ] Migrate notes to Evernote
-
 ## Resources
 * github.com/jakeginnivan
 * [examples from talk](https://github.com/JakeGinnivan/practical-typescript)
